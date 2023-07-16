@@ -16,5 +16,4 @@ Industry Establishment Maps
 This script analyzes a CSV file by year, examining the number of establishments at the county level for a specified industry. It generates detailed maps for each year, visualizing the concentration of establishments. The plotly.figure_factory, numpy, and pandas libraries are utilized in this project.
 Feel free to explore these projects and witness my expertise in data analysis and data science.
 Thank you for visiting my portfolio! For any inquiries or collaborations, please contact me at nicogv@ameritech.net or (219)-776-8169.
-![image](https://github.com/nicogv10/Python_Projects_Showcase/assets/85205662/8e22efc2-67a3-44f2-a377-034aaf908b36)
 
