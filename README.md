@@ -2,7 +2,7 @@
 Nicolas Garcia-Vicente's Data Analyst/Scientist Portfolio
 
 Introduction
-Welcome to my data analyst/scientist portfolio. My name is Nicolas Garcia-Vicente, and I am currently working as a Sr. Financial Analyst and Independent Researcher. I have a background in Economics and Statistics, with a B.S. degree from Colorado College. With over six years of experience in finance and data analysis roles, I have developed proficiency in Python, SQL, Excel, and Tableau. This portfolio focuses on showcasing my skills as a data analyst/scientist, with all projects implemented in Python.
+Welcome to my data analyst/scientist portfolio. My name is Nicolas Garcia-Vicente, and I am currently working as a Project Manager and Independent Researcher. I have a background in Economics and Statistics, with a B.S. degree from Colorado College. With over ~8 years of experience in data analysis and finance roles, I have developed proficiency in Python, SQL, Excel, and Tableau. This portfolio focuses on showcasing my skills as a data analyst/scientist, with all projects implemented in Python.
 
 Projects
 Here are a few selected projects that highlight my capabilities:
