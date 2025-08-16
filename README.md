@@ -11,15 +11,27 @@ Here are a few selected projects that highlight my capabilities:
 
 This analysis addresses capacity constraints at multiple facilities by determining the closest facilities for a given patient population. It calculates various distance metrics, including proximity to my company's closest facility and the three closest competitor facilities for each patient. The output provides valuable insights into capacity planning for large patient populations. This project utilizes the numpy, pandas, and geopy libraries.
 
-2)LOCQ (Location Quotients)
+2) KOLD OU TEST
+
+Analyzes sequences of eight consecutive losses (can be tweaked to look at different length L streaks) in historical sports betting data (Overs and Unders for all teams) and evaluates whether recovery (a win) occurs within the following four (or 3 or 2) games. Provides detailed breakdowns by recovery game (Game 9–12) to identify patterns in extended losing streaks. Basically testing out the gambler's fallacy that a long loss streak will regress to the mean and eventually get a win.
+
+3) LOCQ (Location Quotients)
 
 The LOCQ script processes County Business Patterns (CBP) data files to extract specific information related to a specified industry. It then calculates Location Quotients (LOCQs) based on employment numbers and merges the results into a single dataframe. The final merged dataframe is saved as an Excel file. This project leverages the pandas, glob, and re libraries.
 
-3)Industry Co-agglomeration
+4) Insights_scrape_v7
+
+Uses Selenium and BeautifulSoup to scrape betting insights, calculate implied probabilities, and rank top plays based on edge (hit rate vs. implied probability). Outputs a styled Excel sheet with the top 12 opportunities, including conditional formatting and gain visualization.
+
+5) Historical_trends_vf3
+
+Identifies active 4+ game streaks across MLB, NBA, and NFL datasets (covering spread, totals, etc.) and checks for similar streaks in each team’s last 100 games. Summarizes how long those past streaks lasted to highlight potential continuation or reversal trends.
+
+6)Industry Co-agglomeration
 
 By iterating through all possible combinations of SIC industry codes, this code performs calculations to identify industries that tend to locate together. It analyzes every set and possible combination of industries to determine co-agglomeration patterns. The pandas and itertools libraries are used in this project.
 
-4)Industry Establishment Maps
+7)Industry Establishment Maps
 
 This script analyzes a CSV file by year, examining the number of establishments at the county level for a specified industry. It generates detailed maps for each year, visualizing the concentration of establishments. The plotly.figure_factory, numpy, and pandas libraries are utilized in this project.
 
