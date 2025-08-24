@@ -21,7 +21,7 @@ The LOCQ script processes County Business Patterns (CBP) data files to extract s
 
 4) Insights_scrape_v7
 
-Uses Selenium and BeautifulSoup to scrape betting insights, calculate implied probabilities, and rank top plays based on edge (hit rate vs. implied probability). Outputs a styled Excel sheet with the top 12 opportunities, including conditional formatting and gain visualization.
+Uses Selenium and undetected-chromedriver to navigate to a sports betting site that details % of public bets, % of $, line movement, etc. for each game. The script scrapes all markets (spread, over/under, moneyline) for all games and determines potential sharp plays and reverse line movement and outputs the results to a nicely formatted Excel file
 
 5) Historical_trends_vf3
 
