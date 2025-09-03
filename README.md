@@ -7,7 +7,7 @@ I hold a B.S. in Economics with a Minor in Statistics from Colorado College, and
 This portfolio highlights selected projects that demonstrate my ability to analyze large datasets, build predictive models, and generate actionable insights.
 
 ## 📊 Featured — Sports Analytics
-### [Sports Betting Cheat Sheet] (./cheat_sheet_20250815.pdf)
+### [Sports Betting Cheat Sheet] (https://github.com/nicogv10/Python_Projects_Showcase/blob/main/Sports_Betting_CheatSheet.pdf)
 
 ### [KOLD OU Test](./KOLD_OU_Test_github.py)
 **Description**
